@@ -22,8 +22,8 @@ This project was inspired by [Tsoding's olive.c](https://github.com/tsoding/oliv
 As I develop the project, I will be updating the session of demos below:
 
 ### Rectangles:
-![three rectangles overlapping](https://i.imgur.com/maQeCB4.png)
+![three rectangles overlapping](https://i.imgur.com/eFKyjTj.png)
 ### Circles
-TODO
+![five circles with different centers, radii and colors](https://i.imgur.com/x3guOqs.png)
 ### Triangles
 TODO
