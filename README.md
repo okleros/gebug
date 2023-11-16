@@ -7,9 +7,9 @@ The library does not have any third-party dependencies and does not need to be b
 ## Quick start
 As explained earlier, Gebug does not need to me compiled nor built in any form, instead, you simply clone the header file contained in this repository and type
 ```console
-#include "gebug.h"
-
 #define GEBUG_IMPLEMENTATION
+
+#include "gebug.h"
 ```
 on the file you want to use Gebug.
 
